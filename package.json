@@ -1,7 +1,7 @@
 {
-  "name": "metalsmith-json-to-files",
-  "version": "1.0.0",
-  "description": "A metalsmith plugin to generate files from JSON",
+  "name": "metalsmith-data-files",
+  "version": "0.0.1",
+  "description": "Metalsmith Plugin: Creates files from JSON or YAML files",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint .",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woodyrew/metalsmith-json-to-files.git"
+    "url": "git+https://github.com/woodyrew/metalsmith-data-files.git"
   },
   "keywords": [
     "metalsmith",
@@ -23,9 +23,9 @@
   "author": "Woody Goodricke <hi@woodygoodricke.com>",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/woodyrew/metalsmith-json-to-files/issues"
+    "url": "https://github.com/woodyrew/metalsmith-data-files/issues"
   },
-  "homepage": "https://github.com/woodyrew/metalsmith-json-to-files#readme",
+  "homepage": "https://github.com/woodyrew/metalsmith-data-files#readme",
   "dependencies": {
     "async": "^1.4.2",
     "debug": "^2.2.0",
